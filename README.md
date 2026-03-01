@@ -41,7 +41,7 @@ While A列車で行こう 復刻版 literally translates to "Take the A Train Re
 
 
 ### Using the translation
-- Grab the latest release from the [releases page](https://github.com/artdink/a-train-english-translation/releases) and extract the files to the same folder as the original game.
+- Grab the latest release from the [releases page](https://github.com/maspling/a-train-english-translation/releases) and extract the files to the same folder as the original game.
 - Use [JS Patcher](https://www.marcrobledo.com/RomPatcher.js/) to apply the patch on the A1Win.exe file using the patch file provided in the release.
 
 ### Building the translation from source
