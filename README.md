@@ -1,3 +1,6 @@
+# Archival Notice
+This repository has been permanently migrated to https://codeberg.org/maspling/a-train-original-version-english
+
 ![A-Train](docs/images/title.png)
 # A-Train Original Version English Translation
 This repository contains the English translation of A列車で行こう 復刻版 (A ressha de ikou fukkokuban) 15th anniversary edition, a popular game developed by ARTDINK for Win 95/98. The translation aims to provide a faithful and accurate representation of the original Japanese text, ensuring that players can enjoy the game in their native language.
